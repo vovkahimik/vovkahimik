@@ -1,5 +1,5 @@
 ### Hi there 👋
-You can see my portfolio by following the link: https://vovkahimik.github.io/portfolio/
+You can see my portfolio :point_down: by following the link :point_right:: https://vovkahimik.github.io/portfolio/ :link:
 <!--
 **vovkahimik/vovkahimik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
